@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Wind Rider.unity
+    guid: adca12d32884b4f4ebc75adebe581963
   m_configObjects: {}
